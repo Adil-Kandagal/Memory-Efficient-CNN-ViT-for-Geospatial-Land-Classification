@@ -1,0 +1,76 @@
+{
+  "Accuracy": 0.999,
+  "Precision": 0.999,
+  "Recall": 0.999,
+  "Loss": 0.00470622649953288,
+  "F1 Score": 0.999,
+  "ROC-AUC": 0.999980888888889,
+  "Confusion Matrix": [
+    [
+      2997,
+      3
+    ],
+    [
+      3,
+      2997
+    ]
+  ],
+  "Classification Report Dict": {
+    "non-agri": {
+      "precision": 0.999,
+      "recall": 0.999,
+      "f1-score": 0.999,
+      "support": 3000.0
+    },
+    "agri": {
+      "precision": 0.999,
+      "recall": 0.999,
+      "f1-score": 0.999,
+      "support": 3000.0
+    },
+    "accuracy": 0.999,
+    "macro avg": {
+      "precision": 0.999,
+      "recall": 0.999,
+      "f1-score": 0.999,
+      "support": 6000.0
+    },
+    "weighted avg": {
+      "precision": 0.999,
+      "recall": 0.999,
+      "f1-score": 0.999,
+      "support": 6000.0
+    }
+  },
+  "Class labels": [
+    "non-agri",
+    "agri"
+  ],
+  "Classification Report": {
+    "non-agri": {
+      "precision": 0.999,
+      "recall": 0.999,
+      "f1-score": 0.999,
+      "support": 3000.0
+    },
+    "agri": {
+      "precision": 0.999,
+      "recall": 0.999,
+      "f1-score": 0.999,
+      "support": 3000.0
+    },
+    "accuracy": 0.999,
+    "macro avg": {
+      "precision": 0.999,
+      "recall": 0.999,
+      "f1-score": 0.999,
+      "support": 6000.0
+    },
+    "weighted avg": {
+      "precision": 0.999,
+      "recall": 0.999,
+      "f1-score": 0.999,
+      "support": 6000.0
+    }
+  }
+}
