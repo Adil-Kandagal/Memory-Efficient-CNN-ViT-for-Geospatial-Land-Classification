@@ -11,7 +11,7 @@
 3. Cache, prefetch, shard and mix-precision your way to **GPU saturation ≥ 95 %**.  
 4. Train **CNNs** (ResNet-50, EfficientNet-B3) and evaluate with **accuracy, precision, recall, F1, ROC-AUC**.  
 5. Extract **intermediate feature maps** from CNNs and feed them into a **Vision Transformer**.  
-6. Package everything inside a **reproducible Docker container** ready for **AWS / GCP batch inference**.
+
 
 ---
 
